@@ -20,7 +20,7 @@ public class Program {
 		
 		// Kommentarzeile
 		// Ergänzung aus der Vorlesung
-		// Java-Folien: Seite 
+		// Java-Folien: Seite 19 und Folgende
 		// Implizite Typanpassung:
 		
 		byte summe = 100;
